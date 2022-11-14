@@ -28,3 +28,9 @@ class Node:
         self.isEnd = None
         self.isRoot = False
         self.output = []
+        
+        
+    def insert(self, k):
+        if 
+    
+    
