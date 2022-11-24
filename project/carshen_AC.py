@@ -8,6 +8,10 @@ from collections import deque
 adj_list = []
 
 
+def init_adj_list():
+    adj_list.clear()
+
+
 def init_trie(keywords):
     """
     aho-corasick은 trie 구조를 사용한다.
